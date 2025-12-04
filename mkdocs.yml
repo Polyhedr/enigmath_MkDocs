@@ -1,13 +1,7 @@
 site_name: Enigmath
 
 theme:
-  name: mkdocs
-  features:
-    - content.code.annotate
-    - navigation.sections
-    - navigation.expand
-    - navigation.footer
-    - toc.integrate
+  name: material
 
 nav:
   - Home: index.md
