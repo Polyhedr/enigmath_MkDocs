@@ -2,6 +2,8 @@
 
 ## Énoncé
 
+$$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$$
+
 On considère une ligne infinie de cases indexées par les entiers relatifs $\mathbb{Z} = \{\dots, -2, -1, 0, 1, 2, \dots \}$, initialement avec un seul jeton sur la case $0$, toutes les autres étant vides.
 
 Au cours du jeu, chaque case peut contenir une pile quelconque de jetons, et l'objectif est de retirer tous les jetons de la ligne en appliquant une suite d'actions autorisées.
@@ -87,4 +89,5 @@ Pour $i \in \mathbb{Z}$, appliquer $A$ sur les $k+1$ cases consécutives d'indic
 &nbsp;
 
 ---
+
 
